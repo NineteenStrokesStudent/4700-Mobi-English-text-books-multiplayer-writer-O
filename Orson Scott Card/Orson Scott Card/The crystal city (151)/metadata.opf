@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a54d0cac-2cdb-4496-9b68-e8964ce51ba4</dc:identifier>
+        <dc:title>The crystal city</dc:title>
+        <dc:creator opf:file-as="Card, Orson Scott" opf:role="aut">Orson Scott Card</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-30T18:14:04.195000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Using the lore and the folk-magic of the men and women who settled North America, Orson Scott Card has created an alternate world where magic works, and where that magic has colored the entire history of the colonies. Charms and beseechings, hexes and potions, all have a place in the lives of the people of this world. Dowsers find water, the second sight warns of dangers to come, and a torch can read a person's future---or their heart.In this world where "knacks" abound, Alvin, the seventh son of a seventh son, is a very special man indeed. He's a Maker; he has the knack of understanding how things are put together, how to create them, repair them, keep them whole, or tear them down. He can heal hearts as well as bones, he build a house, he can calm the waters or blow up a storm. And he can teach his knack to others, to the measure of their own talent.Alvin has been trying to avert the terrible war that his wife, Peggy, a torch of extraordinary power, has seen down the life-lines of every American. Now she has sent him down the Mizzippy to the city of New Orleans, or Nueva Barcelona as they call it under Spanish occupation. Alvin doesn't know exactly why he's there, but when he and his brother-in-law, Arthur Stuart, find lodgings with a family of abolitionists who know Peggy, he suspects he'll find out soon. But Nueva Barcelona is about to experience a plague, and Alvin's efforts to protect his friends by keeping them healthy will create more danger than he could ever have suspected. And in saving the poor people of the city, Alvin will be put to the greatest test of his life---a test that will draw on all his power. For the time has come for him to turn to his old friend Tenskwa-Tawa, the Red Prophet who controls the lands to the west of the Mizzippy. Now Alvin must take the first steps on the road to the Crystal City that was shown to him in a vision so long ago.</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780812564624</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Tales of Alvin Maker" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-14T22:13:48.049000+00:00" name="calibre:timestamp"/>
+        <meta content="crystal city, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

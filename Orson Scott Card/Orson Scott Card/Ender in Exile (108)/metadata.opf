@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">560c42a6-7b02-4eef-85b9-18ddf54a7ebc</dc:identifier>
+        <dc:title>Ender in Exile</dc:title>
+        <dc:creator opf:file-as="Card, Orson Scott" opf:role="aut">Orson Scott Card</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-15T18:12:32.634000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+After twenty-three years, Orson Scott Card returns to his acclaimed best-selling series with the first true, direct sequel to the classic *Ender's Game*.
+
+
+
+In *Ender’s Game*, the world’s most gifted children were taken from their families and sent to an elite training school. At Battle School, they learned combat, strategy, and secret intelligence to fight a dangerous war on behalf of those left on Earth. But they also learned some important and less definable lessons about life.
+
+After the life-changing events of those years, these children—now teenagers—must leave the school and readapt to life in the outside world.
+
+Having not seen their families or interacted with other people for years—where do they go now? What can they do? 
+
+Ender fought for humanity, but he is now reviled as a ruthless assassin. No longer allowed to live on Earth, he enters into exile. With his sister Valentine, he chooses to leave the only home he’s ever known to begin a relativistic—and revelatory—journey beyond the stars.  
+
+What happened during the years between *Ender’s Game* and *Speaker for the Dead*? What did Ender go through from the ages of 12 through 35? The story of those years has never been told. Taking place 3000 years before Ender finally receives his chance at redemption in *Speaker for the Dead*, this is the long-lost story of Ender.
+
+For twenty-three years, millions of readers have wondered and now they will receive the answers. ***Ender in Exile*** is **Orson Scott Card**’s moving return to all the action and the adventure, the profound exploration of war and society, and the characters one never forgot.
+
+*On one of these ships, there is a baby that just may share the same special gifts as Ender’s old friend Bean**…***</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765344151</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Ender's Game: Extended" name="calibre:series"/>
+        <meta content="1.50" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-14T22:13:48.868000+00:00" name="calibre:timestamp"/>
+        <meta content="Ender in Exile" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
